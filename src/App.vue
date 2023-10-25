@@ -2,5 +2,7 @@
 </script>
 
 <template>
-  <h1>Hello World</h1>
+  <main class="app">
+    <h1 class="text">Hello World</h1>
+  </main>
 </template>
