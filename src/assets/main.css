@@ -2,6 +2,11 @@ body {
     background-color: #121212;
 }
 
+.title-text {
+    display: flex;
+    justify-content: center;
+}
+
 .text {
     color: #CCCCCC;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -9,5 +14,5 @@ body {
 
 .header {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }

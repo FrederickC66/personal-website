@@ -9,6 +9,6 @@
       <h3 class="nav-button text"> Projects </h3>
       <h3 class="nav-button text"> Contact </h3>
     </nav>
-    <h1 class="text">Hello World</h1>
+    <h1 class="title-text text"> Welcome to my Website! </h1>
   </main>
 </template>
