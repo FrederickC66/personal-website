@@ -1,29 +1,15 @@
-# personal-website
+# todo list
 
-This template should help get you started developing with Vue 3 in Vite.
+* choose a colour palette
+* choose 2 fonts
+* start on portolio html no css
+* style html in places
+* work on nav bar
+* work on project showcase
+* work on on-site email contact
+* work on about me
+* css it up
+* fancier css
+* deploy it on github
+* done
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
