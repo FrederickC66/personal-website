@@ -13,3 +13,15 @@
 * deploy it on github
 * done
 
+## Week 1
+- design in figma
+
+## Week 2
+- follow design, html and simple css
+- implimenting the email contact footer
+- fancy css
+
+## Week 3
+- fancy css (continuation if not finished)
+- should be done
+- work on fullstack project for Zoies candles
