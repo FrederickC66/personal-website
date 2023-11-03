@@ -26,3 +26,4 @@
 - should be done
 - work on fullstack project for Zoies candles
 - another line to keep the github pushes up
+- about to start coding portfolio tomorrow
