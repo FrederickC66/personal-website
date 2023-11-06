@@ -3,13 +3,34 @@
 
 <template>
   <main class="app">
-    <nav class="header">
-      <h3 class="nav-button text"> Home </h3>
-      <h3 class="nav-button text"> About </h3>
-      <h3 class="nav-button text"> Projects </h3>
-      <h3 class="nav-button text"> Contact </h3>
-    </nav>
-    <h1 class="title-text text"> Welcome to my Website! </h1>
-    
+    <div class="header">
+      <div class="header-name">Frederick Cortez</div>
+      <div class="header-buttons">
+        <h3>Home</h3>
+        <h3>About</h3>
+        <h3>Projects</h3>
+        <h3>Contact</h3>
+      </div>
+    </div>
   </main>
 </template>
+
+<style>
+  body {
+    border: 1px solid rgb(121, 20, 20);
+  }
+
+  .header {
+    display: flex;
+    border: 1px solid black;
+  }
+
+  .header-name {
+    border: 1px solid black;
+  }
+
+  .header-buttons {
+    display: flex;
+    border: 1px solid black;
+  }
+</style>
