@@ -3,34 +3,39 @@
 
 <template>
   <main class="app">
-    <div class="header">
-      <div class="header-name">Frederick Cortez</div>
-      <div class="header-buttons">
-        <h3>Home</h3>
-        <h3>About</h3>
-        <h3>Projects</h3>
-        <h3>Contact</h3>
-      </div>
-    </div>
+      <nav class="header">
+        <h1 class="logo">Frederick Cortez</h1>
+        <ul class="nav-links">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Projects</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
   </main>
 </template>
 
 <style>
-  body {
-    border: 1px solid rgb(121, 20, 20);
-  }
-
-  .header {
+  .header, .nav-links, a {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
     border: 1px solid black;
+    list-style-type: none;
+    text-decoration: none;
+    
   }
 
-  .header-name {
-    border: 1px solid black;
+  .nav-links {
+    
   }
 
-  .header-buttons {
-    display: flex;
-    border: 1px solid black;
+  .nav-links li {
+    text-decoration: none;
+    color: black;
+    padding: 0 50px;
   }
+
+  
 </style>
