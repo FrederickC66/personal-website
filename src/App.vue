@@ -13,19 +13,21 @@
       </ul>
     </nav>
   </div>
-  <div class="hero">
-    <h1 class="title-name">Frederick Cortez</h1>
-    <hr/>
-    <p class="title-text">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    </p>
-  </div>
-  <div class="about">
-    <h2 class="about-title">About</h2>
-    <hr/>
-    <p class="about-text">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    </p>
+  <div class="title-page">
+    <div class="hero">
+      <h1 class="title-name">Frederick Cortez</h1>
+      <hr/>
+      <p class="title-text">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      </p>
+    </div>
+    <div class="about">
+      <h2 class="about-title">About</h2>
+      <hr/>
+      <p class="about-text">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      </p>
+    </div>
   </div>
 </template>
 
