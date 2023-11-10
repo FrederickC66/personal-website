@@ -13,13 +13,11 @@
 * deploy it on github
 * done
 
-## Week 1
-- design in figma
-
 ## Week 2
 - follow design, html and simple css
 - implimenting the email contact footer
 - fancy css
+- update for commit
 
 ## Week 3
 - fancy css (continuation if not finished)
