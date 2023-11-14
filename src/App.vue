@@ -13,13 +13,15 @@
       </ul>
     </nav>
   </div>
-  <div class="title-page">
-    <div class="hero">
+  <div class="hero">
+    <div class="developer-name">
       <h1 class="title-name">Frederick Cortez</h1>
       <hr/>
       <p class="title-text">
         Lorem ipsum dolor sit amet consectetur adipisicing elit.
       </p>
+      <button type="button">Projects</button>
+      <button type="button">Contact</button>
     </div>
     <div class="about">
       <h2 class="about-title">About</h2>
@@ -27,6 +29,16 @@
       <p class="about-text">
         Lorem ipsum dolor sit amet consectetur adipisicing elit.
       </p>
+    </div>
+  </div>
+  <div class="projects">
+    <h2>Projects</h2>
+    <hr/>
+    <div class="projects-card1">
+      <img src="./assets/Dog 1.jpg" class="project-image"/>
+      <h3>Project Title</h3>
+      <hr/>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
     </div>
   </div>
 </template>
@@ -54,7 +66,7 @@
     padding: 0 5vw;
   }
 
-  .hero {
+  .developer-name {
     text-align: center;
     margin-top: 5%;
     margin-bottom: 10%;
@@ -69,4 +81,8 @@
     margin:0 auto;
   }
 
+  .project-image {
+    max-width: 40%;
+    height: auto;
+  }
 </style>
