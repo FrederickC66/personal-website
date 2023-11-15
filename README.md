@@ -12,6 +12,7 @@
 * fancier css
 * deploy it on github
 * done
+* styling should be next
 
 ## Week 2
 - follow design, html and simple css
