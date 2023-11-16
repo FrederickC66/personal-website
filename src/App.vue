@@ -35,7 +35,6 @@
     <h2>Projects</h2>
     <hr/>
     <div class="projects-card1">
-      <img src="./assets/Dog 1.jpg" class="project-image"/>
       <h3>Project Title</h3>
       <hr/>
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
@@ -64,16 +63,19 @@
   .nav-links li {
     color: black;
     padding: 0 5vw;
+    
   }
 
   .developer-name {
     text-align: center;
     margin-top: 5%;
     margin-bottom: 10%;
+    border: 1px solid black;
   }
 
   .about {
     text-align: center;
+    border: 1px solid black;
   }
 
   hr {
@@ -84,5 +86,10 @@
   .project-image {
     max-width: 40%;
     height: auto;
+  }
+
+  .projects {
+    display: grid;
+    place-items: center;
   }
 </style>
