@@ -13,7 +13,8 @@
 * deploy it on github
 * done
 * styling should be next
-update
+* update
+* another update
 
 ## Week 2
 - follow design, html and simple css
