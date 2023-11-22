@@ -46,6 +46,7 @@
 <style>
   body {
     margin: 0 auto;
+    background-color: rgb(51, 50, 50);
   }
 
   .header, .nav-links, a {
