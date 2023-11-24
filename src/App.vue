@@ -98,4 +98,8 @@
     place-items: center;
   }
   
+  .projects h1 {
+    display: flex;
+    text-align: center;
+  }
 </style>
