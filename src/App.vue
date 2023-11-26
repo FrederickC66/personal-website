@@ -96,6 +96,7 @@
   .projects-card1 {
     display: grid;
     place-items: center;
+    text-align: center;
   }
   
   .projects h1 {
