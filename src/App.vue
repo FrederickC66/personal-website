@@ -102,5 +102,6 @@
   .projects h1 {
     display: flex;
     text-align: center;
+    margin-top: auto;
   }
 </style>
