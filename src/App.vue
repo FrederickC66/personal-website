@@ -41,6 +41,17 @@
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
     </div>
   </div>
+  <div class="contact">
+    <h2>Contact</h2>
+    <hr/>
+    <label for="name">Name</label>
+    <input type="text" id="name" placeholder="John Doe">
+    <label for="message">Your Message</label>
+    <input type="text" id="message" placeholder="Enter your message here">
+    <label for="email">Email Address</label>
+    <input type="text" id="email" placeholder="example@example.com">
+    <button type="button">Submit</button>
+  </div>
 </template>
 
 <style>
