@@ -115,4 +115,9 @@
     text-align: center;
     margin-top: auto;
   }
+
+  .contacts {
+    display: flex;
+    align-items: center;
+  }
 </style>
