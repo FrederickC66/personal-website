@@ -15,6 +15,7 @@
 * styling should be next
 * update
 * another update
+*this was added by the laptop branch
 
 ## Week 2
 - follow design, html and simple css
