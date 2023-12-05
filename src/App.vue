@@ -41,6 +41,7 @@
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
     </div>
   </div>
+  <div>
   <div class="contact">
     <h2>Contact</h2>
     <hr/>
@@ -52,6 +53,7 @@
     <input type="text" id="email" placeholder="example@example.com">
     <button type="button">Submit</button>
   </div>
+</div>
 </template>
 
 <style>
@@ -117,7 +119,8 @@
   }
 
   .contacts {
-    display: flex;
+    display: grid;
+    place-items: center;
     align-items: center;
     text-align: center;
   }
