@@ -123,5 +123,6 @@
     place-items: center;
     align-items: center;
     text-align: center;
+    margin-top: 10%;
   }
 </style>
