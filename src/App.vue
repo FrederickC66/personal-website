@@ -124,5 +124,6 @@
     align-items: center;
     text-align: center;
     margin-top: 10%;
+    margin-bottom: 10%;
   }
 </style>
