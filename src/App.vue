@@ -59,7 +59,7 @@
 <style>
   body {
     margin: 0 auto;
-    background-color: rgb(51, 50, 50);
+    background-color: rgb(122, 116, 116);
   }
 
   .header, .nav-links, a {
@@ -125,5 +125,6 @@
     text-align: center;
     margin-top: 10%;
     margin-bottom: 10%;
+    
   }
 </style>
