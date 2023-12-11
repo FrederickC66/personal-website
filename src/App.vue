@@ -96,6 +96,7 @@
   hr {
     width:20%;
     margin:0 auto;
+    align-items: center;
   }
 
   .project-image {
