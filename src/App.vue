@@ -97,6 +97,7 @@
     width:20%;
     margin:0 auto;
     align-items: center;
+    margin-top: 0%;
   }
 
   .project-image {
