@@ -98,6 +98,7 @@
     margin:0 auto;
     align-items: center;
     margin-top: 0%;
+    margin-bottom: 0%;
   }
 
   .project-image {
