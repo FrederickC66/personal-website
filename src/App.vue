@@ -128,6 +128,6 @@
     text-align: center;
     margin-top: 10%;
     margin-bottom: 10%;
-    
+    margin: 0%;
   }
 </style>
