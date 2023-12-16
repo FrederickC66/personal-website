@@ -60,6 +60,7 @@
   body {
     margin: 0 auto;
     background-color: rgb(122, 116, 116);
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   .header, .nav-links, a {
