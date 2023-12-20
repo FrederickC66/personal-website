@@ -61,6 +61,7 @@
     margin: 0 auto;
     margin-left: 0%;
     margin-right: 0%;
+    margin-bottom: 0%;
     background-color: rgb(122, 116, 116);
     font-family: Arial, Helvetica, sans-serif;
   }
