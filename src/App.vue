@@ -73,6 +73,7 @@
     color: black;
     list-style-type: none;
     text-decoration: none;
+    margin-top: 0%;
   }
 
   .logo {
