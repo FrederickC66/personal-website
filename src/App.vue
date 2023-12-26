@@ -62,7 +62,7 @@
     margin-left: 0%;
     margin-right: 0%;
     margin-bottom: 0%;
-    background-color: rgb(122, 116, 116);
+    background-color: rgb(224, 215, 215);
     font-family: Arial, Helvetica, sans-serif;
   }
 
