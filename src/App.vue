@@ -134,5 +134,6 @@
     margin-top: 10%;
     margin-bottom: 10%;
     margin: 0%;
+    margin-left: 0%;
   }
 </style>
