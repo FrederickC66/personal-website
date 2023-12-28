@@ -131,9 +131,5 @@
     place-items: center;
     align-items: center;
     text-align: center;
-    margin-top: 10%;
-    margin-bottom: 10%;
-    margin: 0%;
-    margin-left: 0%;
   }
 </style>
