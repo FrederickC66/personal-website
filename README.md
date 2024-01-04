@@ -15,7 +15,6 @@
 * styling should be next
 * update
 * another update
-* update from work laptop
 
 ## Week 2
 - follow design, html and simple css
