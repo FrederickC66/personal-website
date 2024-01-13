@@ -13,10 +13,3 @@
 * deploy it on github
 * done
 * styling should be next
-
-## Week 2
-- follow design, html and simple css
-- implimenting the email contact footer
-- fancy css
-- update for commit
-- second update for commit
