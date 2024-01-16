@@ -11,5 +11,4 @@
 * css it up
 * fancier css
 * deploy it on github
-* done
 * styling should be next
