@@ -11,4 +11,3 @@
 * css it up
 * fancier css
 * deploy it on github
-* styling should be next
