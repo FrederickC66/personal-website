@@ -10,4 +10,3 @@
 * work on about me
 * css it up
 * fancier css
-* deploy it on github
