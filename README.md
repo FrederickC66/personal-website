@@ -9,4 +9,3 @@
 * work on on-site email contact
 * work on about me
 * css it up
-* fancier css
