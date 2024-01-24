@@ -6,4 +6,3 @@
 * style html in places
 * work on nav bar
 * work on project showcase
-* work on on-site email contact
