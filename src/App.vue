@@ -63,7 +63,7 @@
     margin-right: 0%;
     margin-bottom: 0%;
     background-color: rgb(224, 215, 215);
-    font-family: Arial, Helvetica;
+    font-family: Arial;
   }
 
   .header, .nav-links, a {
