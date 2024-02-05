@@ -130,7 +130,6 @@
     display: grid;
     place-items: center;
     align-items: center;
-    text-align: center;
     margin-top: 0%;
   }
 </style>
