@@ -129,7 +129,6 @@
   .contacts {
     display: grid;
     place-items: center;
-    align-items: center;
     margin-top: 0%;
   }
 </style>
